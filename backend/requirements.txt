@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+requests
+pandas
+scikit-learn # For placeholder ML models
+numpy
+pulp
